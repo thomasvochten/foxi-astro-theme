@@ -28,7 +28,7 @@ export const configData: Config = {
 		'Thomas Vochten&quot;s personal website - Microsoft MVP',
 	ogImage: '/og.jpg',
 	logo: {
-		src: '/logo.svg',
+		src: '/avatar.jpg',
 		alt: 'Foxi. logo'
 	},
 	canonical: true,
