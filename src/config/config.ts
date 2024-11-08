@@ -2,6 +2,8 @@
 // ------------
 // Description: The configuration file for the website.
 
+import type { moveEmitHelpers } from "typescript"
+
 export interface Logo {
 	src: string
 	alt: string
@@ -21,9 +23,9 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'Foxi. Tailwind CSS Astro Starter Kit by Oxygenna',
+	siteTitle: 'Thomas Vochten',
 	siteDescription:
-		'Foxi is a design and development agency that specializes in creating beautiful and functional websites.',
+		'Thomas Vochten&quot;s personal website - Microsoft MVP',
 	ogImage: '/og.jpg',
 	logo: {
 		src: '/logo.svg',
