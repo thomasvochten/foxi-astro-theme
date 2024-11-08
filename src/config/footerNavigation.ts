@@ -35,13 +35,13 @@ export interface FooterData {
 
 export const footerNavigationData: FooterData = {
 	footerAbout: {
-		title: 'Foxi.',
+		title: 'Thomas Vochten',
 		aboutText:
-			'Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.',
+			'Technology evangelist Microsoft 365 & Security • Platform architect • Speaker • Trainer',
 		logo: {
 			src: '/avatar.jpg',
-			alt: 'The tailwind astro theme',
-			text: 'Foxi.'
+			alt: 'Thomas Vochten',
+			text: 'Thomas Vochten ☕👨‍💻🏃'
 		}
 	},
 	footerColumns: [
