@@ -64,6 +64,7 @@ export default {
       fontFamily: {
         sans: ["Inter Variable", ...defaultTheme.fontFamily.sans],
         headings: ["Outfit Variable", ...defaultTheme.fontFamily.sans],
+        mono: ["JetBrains Mono", ...defaultTheme.fontFamily.mono],
       },
       keyframes: {
         dropdown: {
